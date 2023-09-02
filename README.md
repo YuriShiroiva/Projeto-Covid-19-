@@ -13,3 +13,22 @@ Além disso, são feitas previsões sobre as séries temporais dos números de _
 ![taxa_crescimento](https://github.com/jonathanAmancioSales/Analise_Covid19_ARIMA_Prophet_DIO/blob/main/taxa_crescimento_diario.png)
 
 ---
+
+## Setup
+
+Escrito em Python 3.9 (Versão compatível com o fbprophet). Não esqueça da virtualenv. Os comandos`python` a baixo serão para instalação e execução.
+
+Primeiro é necessário instalar os requirements.
+
+```bash
+python -m pip install -r requirements.txt
+```
+Ou
+```bash
+conda install --file requirements.txt -p ./lib
+```
+Recomendo a utilização do Conda, pois são muitas "gambs" para instalar o fbprophet via pip, não compensando o esforço. 
+
+
+## Run
+Os dados são inseridos em variáveis do próprio código, bastando executá-lo.
