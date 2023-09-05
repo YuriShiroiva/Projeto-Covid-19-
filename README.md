@@ -12,7 +12,7 @@ Neste projeto é feito uma análise exploratória dos dados do COVID-19 no Brasi
 
 Além disso, são feitas previsões sobre as séries temporais dos números de _casos confirmados_ e _novos casos por dia_ utilizado as bibliotecas [pmdARIMA](https://pypi.org/project/pmdarima/) e [Prophet](https://facebook.github.io/prophet/docs/quick_start.html).
 
-![taxa_crescimento](https://github.com/jonathanAmancioSales/Analise_Covid19_ARIMA_Prophet_DIO/blob/main/taxa_crescimento_diario.png)
+![taxa_crescimento](https://github.com/YuriShiroiva/Projeto-Covid-19-/blob/main/img/taxa_crescimento_diario.png)
 
 ---
 
